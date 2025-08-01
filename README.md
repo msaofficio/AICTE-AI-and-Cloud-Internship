@@ -35,5 +35,14 @@ Fault detection in power systems is critical for grid stability and reliability.
 
 ---
 
-![Model Prediction Screenshot](./images:screenshots/result.png)
+<br>
+<p align="center">
+  <span>
+    <img src="./images/test_result 2.png" width="50%" alt="Model Prediction Screenshot"/>
+  <img src="./images/result 1.png" width="50%" alt="Model Prediction Screenshot"/>
+  </span>
+  
+</p>
+
+
 
